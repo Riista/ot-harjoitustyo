@@ -1,0 +1,114 @@
+MioLaner@Mio-MacBook-Air ot_viikko1 % git log --stat | cat
+commit af74d7ea402493baa6403e7e9ae7c2f9de8ba8c9
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 13:48:30 2022 +0300
+
+    tiedostoja muutettu
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b32925bf7c0b972ec0276d02961e1fd49f923017
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 13:27:27 2022 +0300
+
+    tiedostoja lisätty
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6bf2c9835c32690a369b5978834708473f851d50
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 13:10:51 2022 +0300
+
+    muutettu eka.txt ja kolmas.txt
+
+ eka.txt    | 12 ++++++------
+ kolmas.txt |  4 +++-
+ 2 files changed, 9 insertions(+), 7 deletions(-)
+
+commit efea3e8c61367f99ffce3a2cff1dcf2ab296ada9
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 13:00:24 2022 +0300
+
+    tiedosto.txt muutettu eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d3181b4a0f35adf9f2b02c72d59ecb32df109fa5
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 12:55:44 2022 +0300
+
+    toinen poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 1ffe9e42dedf23df9301a073e87008899d08648c
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 12:00:59 2022 +0300
+
+    tekstiä lisää tiedostoon
+
+ tiedosto.txt | 14 +++++++++++++-
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+
+commit 63a834c7a159c8a1e2ba7fd2a1d310becbbd1b7d
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 11:59:26 2022 +0300
+
+    tekstiä tiedostoon
+
+ tiedosto.txt | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit 398acaceb30c23257277d6aea8fd15ef984ae95a
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 11:40:44 2022 +0300
+
+    stuff lisätty
+
+ stuff/teksti.text | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e5ab27a9ea5b7404365b0c06d45d0dd06ebc9a68
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 11:31:47 2022 +0300
+
+    toinen ja kolmas muutettu
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit c71109e7cb96ab4ed87e4773c56a69bdb151e2e3
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 11:29:49 2022 +0300
+
+    kolmas lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5eab2c1061ba4f4793d5e719b807fcd0a40d22a1
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 11:15:58 2022 +0300
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 0690bfb438cd9d6378f0c7f15c6c09aaa0c67983
+Author: Riista <mio.laner@gmail.com>
+Date:   Wed Sep 7 11:11:54 2022 +0300
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
